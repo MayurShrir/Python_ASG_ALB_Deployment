@@ -9,7 +9,7 @@ yum install -y git python3 python3-pip
 cd /home/ec2-user
 
 # Clone repo as ec2-user
-sudo -u ec2-user git clone https://github.com/MayurShrir/My-test_app.git
+sudo -u ec2-user git clone https://github.com/MayurShrir/Python_ASG_ALB_Deployment.git
 
 cd My-test_app
 
